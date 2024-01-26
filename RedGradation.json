@@ -1,0 +1,19 @@
+{
+    "name": "Red Gradation",
+    "description": "This theme made by hanakuso2525_",
+    "authors": [
+        {
+            "name": "22222222",
+            "id": "22222"
+        }
+    ],
+    "spec": 2,
+
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#FF0033",
+            "#FF3B62"
+        ]
+    }
+
+}
