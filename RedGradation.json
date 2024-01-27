@@ -11,8 +11,8 @@
 
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#ff1443",
-            "#000000"
+            "#FF0033",
+            "#FF3B62"
         ],
         "TEXT_NORMAL": [
             "#ffffff",
