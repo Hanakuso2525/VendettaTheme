@@ -22,7 +22,12 @@
         "BACKGROUND_PRIMARY": [
             "#d9b4b4",
             "#ffffff"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#ad6c6c",
+            "#ffffff"
         ]
+
     }
 
 }
