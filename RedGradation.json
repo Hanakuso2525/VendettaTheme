@@ -17,6 +17,11 @@
         "TEXT_NORMAL": [
             "#ffffff",
             "#ff8099"
+        ],
+
+        "BACKGROUND_PRIMARY": [
+            "#f78d8d",
+            "#ffffff"
         ]
     }
 
